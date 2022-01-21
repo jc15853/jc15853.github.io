@@ -1,9 +1,9 @@
 ---
-title: "Python"
+title: "BOJ(백준)"
 layout: category
-permalink: /categories/python/
+permalink: /categories/boj/
 author_profile: true
-taxonomy: Python
+taxonomy: BOJ(백준)
 sidebar:
   nav: "categories"
 ---

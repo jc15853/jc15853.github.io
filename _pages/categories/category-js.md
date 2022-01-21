@@ -1,9 +1,9 @@
 ---
-title: "C언어"
+title: "JavaScript"
 layout: category
-permalink: /categories/c-lang/
+permalink: /categories/js/
 author_profile: true
-taxonomy: C언어
+taxonomy: JavaScript
 sidebar:
   nav: "categories"
 ---
