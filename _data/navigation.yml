@@ -1,0 +1,57 @@
+# main links
+main:
+  - title: "Home"
+    url: https://jc15853.github.io/
+
+  - title: "Categories"
+    url: /categories/
+    
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+# sidebar navigation (categories)
+categories:
+- title: Programming
+  children:
+    - title: "C++ STL"
+      url: /categories/cpp-stl/
+    - title: "알고리즘"
+      url: /categories/algorithm/
+    - title: "자료구조"
+      url: /categories/data-structure/
+    - title: "Python"
+      url: /categories/python/
+
+- title: Web
+  children:
+    - title: "Web"
+      url: /categories/web/
+
+- title: Work
+  children:
+    - title: "VirtualBox"
+      url: /categories/virtual-box/
+    - title: "Linux"
+      url: /categories/linux/
+    - title: "C언어"
+      url: /categories/c-lang/
+
+- title: Git
+  children:
+    - title: "Git"
+      url: /categories/git/
+    - title: "GitHub Blog"
+      url: /categories/github-blog/
+
+- title: Projects
+  children:
+    - title: "Android"
+      url: /categories/android/
+    - title: "Machine Learning"
+      url: /categories/machine-learning/
+    - title: "코테 / 문제해결"
+      url: /categories/coding-challenge/

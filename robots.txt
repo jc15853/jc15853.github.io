@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jc15853.github.io/sitemap.xml
