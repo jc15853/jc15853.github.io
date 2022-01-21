@@ -548,7 +548,7 @@
     background: inherit;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
-    border-bottom: 1.5px solid mix(#7E7272, $background-color, 80%);
+    border-bottom: 1.5px solid mix(#807474, $background-color, 80%);
   }
 
   // Scrollspy marks toc items as .active when they are in focus
@@ -576,7 +576,7 @@
     // font-weight: bold;
     line-height: 1.5;
     // border-bottom: 1px solid $border-color;
-    border-bottom: 1.5px solid mix(#7E7272, $background-color, 80%);
+    border-bottom: 1.5px solid mix(#807474, $background-color, 80%);
 
     &:hover {
       font-weight: bold;

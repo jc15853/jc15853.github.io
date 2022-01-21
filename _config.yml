@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "MySite"
 title_separator          : "&#124;"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "jc15853"
+name                     : "Jiwon Choi"
 description              : "my site"
 url                      : "https://jc15853.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "jc15853"
+  name             : "Jiwon Choi"
   avatar           : #"/assets/images/bear.png"
   bio              : "Developer / Designer"
   location         : #"South Korea"
@@ -104,7 +104,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "jchoi15853@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
