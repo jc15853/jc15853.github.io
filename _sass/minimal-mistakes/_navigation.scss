@@ -161,8 +161,8 @@
 .page__meta + .pagination,
 .page__share + .pagination,
 .page__comments + .pagination {
-  margin-top: 2em;
-  padding-top: 2em;
+  //margin-top: 2em;
+  //padding-top: 2em;
   border-top: 1px solid $border-color;
 }
 
@@ -528,22 +528,19 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  // color: $gray;
   color: $text-color;
-  // background-color: $background-color;
   background-color:$background-color;
-  // background-color: white;
   // border: 1px solid black;
   border-radius: $border-radius;
   // -webkit-box-shadow: $box-shadow;
   // box-shadow: $box-shadow;
-  padding: 0.5em 0.5em 0.5em 0.5em;
+  padding: 0.5em;
 
   .nav__title {
     // color: #fff;
     /* change Right Navigation title 'On this page' color */
     color: rgb(75, 73, 73);
-    font-size: $type-size-6;
+    font-size: 1vimn;
     // background: $primary-color;
     background: inherit;
     border-top-left-radius: $border-radius;
@@ -562,20 +559,17 @@
   padding: 0;
   width: 100%;
   list-style: none;
-  font-size: $type-size-6;
+  font-size: 1vmin; //$type-size-6;
 
   @include breakpoint($large) {
-    font-size: $type-size-7;
+    font-size: 1.5vmin; //$type-size-7;
   }
 
   a {
     display: block;
     padding: 0.25rem 0.75rem;
-    // color: $muted-text-color;
     color: $text-color;
-    // font-weight: bold;
     line-height: 1.5;
-    // border-bottom: 1px solid $border-color;
     border-bottom: 1.5px solid mix(#807474, $background-color, 80%);
 
     &:hover {

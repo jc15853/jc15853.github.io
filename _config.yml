@@ -25,7 +25,7 @@ url                      : "https://jc15853.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jc15853/jc15853.github.io"
 teaser                   : #
-logo                     : "/assets/images/bear.png"
+logo                     : "/assets/images/bear_pink.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,6 +102,9 @@ author:
   location         : #"South Korea"
   email            :
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jc15853"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "jchoi15853@naver.com"
@@ -114,9 +117,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jc15853"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
