@@ -11,7 +11,7 @@ $code-background-color:rgba(250, 226, 183, 0.5);
 $code-background-color-dark: rgba(185, 185, 185, 0.5) !default;
 $form-background-color: rgba(255, 255, 255, 0.527) !default;
 $footer-background-color: mix(#000, $background-color, 3%) !default;
-$link-color: #804E4E !default;
+$link-color: $primary-color !default;
 $link-color-hover: #5A8581 !default;
 $link-color-visited: mix(#000, $link-color, 15%) !default;
 $masthead-link-color: $text-color !default;
