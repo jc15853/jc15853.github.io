@@ -32,14 +32,14 @@ last_modified_at: 2022-01-23
 
 - 파비콘의 **<mark>기본 확장자는 .ico이며 사이즈도 보통 16x16 크기</mark>**를 사용합니다.
 
-  <font color="grey">(.png로도 표현이 가능하며 32x32 크기도 가능합니다.)</font>
+  <font color="grey">(.png로도 표현이 가능하며 최근의 32x32 크기도 지원합니다.)</font>
 
 ## 1. 파비콘용 파일 만들기
 웹 상으로 공유되는 파비콘도 많기 때문에 원하는 이미지를 찾아서 다운로드를 받을 수도 있습니다. 저는 직접 그린 이미지로 파비콘용 파일을 만들도록 하겠습니다.<br>
 
 우선 파비콘으로 만들 이미지 파일을 미리 준비하고, 검색 엔진에 'favicon'을 검색하시면 이미지 파일을 파비콘으로 변경해주는 웹 페이지들이 많이 있습니다.<br>
 
-저는 <font color="grey"><A href = "www.favicon-generator.org/"> www.favicon-generator.org </A></font>를 이용하여 제작하도록 하겠습니다.<br>
+저는 <a href = "www.favicon-generator.org/"> www.favicon-generator.org </a>를 이용하여 제작하도록 하겠습니다.<br>
 
 
 사이트로 접속 후<br>
@@ -88,3 +88,7 @@ html 파일이 있는 폴더로 ico 파일을 이동시키고,<br>
 ## 💬 추가
 위에 언급한 사이트 대신 <font color="grey"><A href = "https://realfavicongenerator.net/"> https://realfavicongenerator.net/</A></font>을 이용하시면 더욱 깔끔한 파비콘을 제작하실 수 있습니다!<font color="grey"> (사용 방법이 유사하므로 따로 포스팅하지는 않겠습니다.)</font>
 <center><img src="/assets/images/posts_img/html_favicon/favicon_07.png" style="zoom:40%;"/></center>
+
+💡 개인 기록용 블로그입니다. 오류가 있을 경우 언제든지 댓글 혹은 메일로 말씀해주시면 감사하겠습니다!
+{: .notice}
+[BACK TO TOP ↑](#){: .back-to-top }{: .align-right}
