@@ -166,14 +166,18 @@ blockquote {
 /* links */
 
 a {
-  line-height: 1.5;
+  text-decoration: none;
+  // line-height: 1.5;
+
   &:focus {
     @extend %tab-focus;
   }
 
+  /*
   &:visited {
     color: $link-color-visited;
   }
+  */
 
   &:hover {
     color: $link-color-hover;
