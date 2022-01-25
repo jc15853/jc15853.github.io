@@ -166,8 +166,8 @@ blockquote {
 /* links */
 
 a {
-  text-decoration: none;
-  // line-height: 1.5;
+  //text-decoration: none;
+  line-height: 1.5;
 
   &:focus {
     @extend %tab-focus;

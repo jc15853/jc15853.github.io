@@ -6,8 +6,8 @@ main:
   - title: "Categories"
     url: /categories/
 
-#  - title: "Tags"
-#    url: /tags/
+  - title: "Tags"
+    url: /tags/
     
   # - title: "Sample Posts"
   #   url: /year-archive/
@@ -23,14 +23,24 @@ categories:
     - title: "BOJ(백준)"
       url: /categories/boj/
 
-- title: Front-end
+- title: HTML
   children:
     - title: "HTML"
       url: /categories/html/
+
+- title: CSS
+  children:
     - title: "CSS"
       url: /categories/css/
+
+- title: JavaScript
+  children:
     - title: "JavaScript"
       url: /categories/js/
+    - title: Course/JS) Basic01
+      url: /categories/js_basic01/
+    - title: Course/JS) Basic02
+      url: /categories/js_basic02/
 
 - title: ETC.
   children:
