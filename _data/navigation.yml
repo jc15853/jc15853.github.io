@@ -27,6 +27,8 @@ categories:
   children:
     - title: "HTML"
       url: /categories/html/
+    - title: Book/HTML) HTML5
+      url: /categories/html_doit/
 
 - title: CSS
   children:
@@ -41,6 +43,11 @@ categories:
       url: /categories/js_basic01/
     - title: Course/JS) Basic02
       url: /categories/js_basic02/
+
+- title: React
+  children:
+    - title: "React"
+      url: /categories/react/
 
 - title: ETC.
   children:
