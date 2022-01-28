@@ -49,6 +49,11 @@ categories:
     - title: "React"
       url: /categories/react/
 
+- title: Algorithm
+  children:
+    - title: "Algorithm"
+      url: /categories/algorithm/
+
 - title: ETC.
   children:
     - title: "Git & Github"
