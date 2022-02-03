@@ -47,7 +47,7 @@ last_modified_at: 2022-01-27
 
 ### 동적 계획법으로 구현
 
-#### 메모이제이션(memoization)
+#### <font color="#C0392B">메모이제이션(memoization)</font>
 
 - 동적 계획법을 구현하는 방법 중 하나로,  
       
